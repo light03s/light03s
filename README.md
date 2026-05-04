@@ -5,6 +5,7 @@
 
 - <b>Regina Recycle Group Project</b>
   - [Regina Recyle App](https://github.com/reginarecycle/regina-recycle-app)
+- <b> Shortest Path Finder - Python Review</b>
   - [Shortest Path Finder](https://github.com/light03s/Shortest-Path-Finder)
 <!-- <h2> 🤳 Connect with me:</h2> -->
 
