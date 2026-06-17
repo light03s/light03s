@@ -1,6 +1,3 @@
-<h1>Hi, I'm Noor! </h1>
-<h3>🥳 I'm graduating in June with a Bachelor's of Science in Computer Science and I'm excited to work in software development</h3>
-
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Regina Recycle Group Project</b>
