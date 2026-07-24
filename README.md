@@ -1,4 +1,4 @@
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Regina Recycle Group Project</b>
   - [Regina Recyle App](https://github.com/reginarecycle/regina-recycle-app)
